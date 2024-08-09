@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **vue3**
 
-- 📝 I regularly write articles on [lisk.pages.dev](lisk.pages.dev)
+- 📝 I regularly write articles on [lisks.top](lisks.top)
 
 - 💬 Ask me about **react, vue**
 
-- 📫 How to reach me **liskqwq@gmail.com**
+- 📫 How to reach me **hi@lisks.top**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
