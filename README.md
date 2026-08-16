@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lisk</h1>
 <h3 align="center">A front-end bug maker, who loves code and life.</h3>
 
-- 🌱 I’m currently learning **vue3**
+- 📝 I regularly write articles on [lisks.icu](lisks.icu)
 
-- 📝 I regularly write articles on [lisks.top](lisks.top)
-
-- 💬 Ask me about **react, vue**
+- 💬 Ask me about **react, vue, typescript, typst**
 
 - 📫 How to reach me **hi@lisks.top**
 
